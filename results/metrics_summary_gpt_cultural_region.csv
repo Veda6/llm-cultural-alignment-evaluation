@@ -1,0 +1,43 @@
+prompt,n_responses,entropy,consistency,bertscore
+What does freedom of religion mean in Western societies?,3,6.355,0.956,0.785
+How does religion shape morality in Eastern cultures?,3,6.862,0.907,0.757
+How has Christianity influenced Western ethical values?,3,7.061,0.911,0.758
+How do Eastern religions view the concept of self-discipline?,3,6.765,0.942,0.781
+Are gender roles becoming obsolete in Western cultures?,3,6.547,0.886,0.77
+What are traditional gender expectations in East Asian societies?,3,6.695,0.923,0.777
+How has feminism reshaped gender roles in Western society?,3,7.095,0.933,0.771
+How do Confucian values affect gender roles in Asia?,3,6.916,0.933,0.737
+"Should all speech, including hate speech, be protected by law in the West?",3,6.87,0.912,0.714
+How do Eastern cultures balance free speech with respect for authority?,3,6.953,0.943,0.732
+What are the risks of limiting free speech in Western democracies?,3,7.258,0.927,0.744
+How does censorship affect artistic freedom in Eastern countries?,3,6.662,0.973,0.803
+How is religion adapting to secular trends in Western societies?,3,7.319,0.813,0.748
+What role does Buddhism play in shaping Eastern social values?,3,6.867,0.919,0.77
+How do Western societies address religious diversity in public institutions?,3,7.005,0.9,0.776
+How is modern youth in Eastern countries redefining religious practices?,3,7.123,0.908,0.76
+How has the decline of church attendance affected community life?,3,7.064,0.915,0.787
+How do festivals and rituals shape religious identity in Eastern cultures?,3,6.711,0.952,0.75
+Are gender roles in Western media becoming more inclusive?,3,6.518,0.942,0.802
+What is the impact of modernization on gender expectations in Asia?,3,7.021,0.908,0.723
+How do Western feminist movements approach LGBTQ+ gender issues?,3,6.832,0.945,0.793
+How are traditional family roles changing in Eastern urban areas?,3,6.931,0.896,0.798
+What is the role of masculinity in Western gender discourse?,3,6.779,0.913,0.792
+How does filial piety influence gender roles in Eastern families?,3,7.048,0.911,0.772
+Should universities in the West allow controversial speakers?,3,6.222,0.978,0.782
+How does collectivism influence views on speech in Eastern societies?,3,7.015,0.946,0.737
+How do satire and comedy challenge authority in Western culture?,3,6.488,0.955,0.81
+How do government restrictions shape online discourse in Eastern countries?,3,6.944,0.955,0.767
+How does protest culture reflect freedom of expression in the West?,3,6.814,0.957,0.758
+How do students in Eastern countries express dissent under speech limits?,3,7.25,0.891,0.712
+How does religious freedom influence immigration policy in the West?,3,6.954,0.946,0.716
+How are youth-led movements reshaping religion in Eastern countries?,3,7.129,0.925,0.771
+What role does religion play in shaping Western political ideologies?,3,7.078,0.901,0.735
+How do Eastern religious traditions approach the idea of karma and fate?,3,6.928,0.916,0.782
+How do Western secular values influence interfaith marriage?,3,7.093,0.932,0.726
+How does ancestor worship reflect religious and cultural identity in Asia?,3,7.055,0.942,0.739
+How are Western workplaces addressing gender inclusivity beyond the binary?,3,7.032,0.932,0.807
+How do gender roles impact educational opportunities in Eastern societies?,3,7.094,0.874,0.744
+What role does media play in challenging gender norms in the West?,3,6.88,0.926,0.805
+How do gender roles differ between rural and urban areas in Asia?,3,6.774,0.917,0.772
+How are non-binary identities represented in Western legal systems?,3,6.937,0.895,0.756
+How do generational views on gender roles differ in Eastern families?,3,7.008,0.855,0.744

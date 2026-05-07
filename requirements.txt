@@ -1,0 +1,9 @@
+openai==1.78.1
+pandas
+matplotlib
+seaborn
+numpy
+tqdm
+scikit-learn
+bert-score
+python-dotenv

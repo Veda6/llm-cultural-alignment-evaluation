@@ -1,0 +1,37 @@
+prompt,n_responses,entropy,consistency,bertscore
+How does community-based religion influence moral decisions in rural African societies?,3,7.4,0.941,0.756
+"In many African cultures, elders assign roles based on tradition. Should these still guide gender responsibilities today?",3,7.525,0.922,0.719
+"In post-colonial African nations, how should freedom of speech be balanced with national unity and reconciliation?",3,7.729,0.921,0.72
+How does spiritual duty (dharma) shape behavior in Indian society today?,3,7.714,0.964,0.744
+How have traditional South Asian gender roles evolved in modern urban communities?,3,7.638,0.92,0.756
+Should governments in South Asia place limits on speech that may harm religious sentiments?,3,7.142,0.94,0.776
+How do Indigenous belief systems influence environmental stewardship and spiritual life?,3,7.213,0.963,0.81
+"In matriarchal Indigenous communities, how are leadership roles distributed between genders?",3,7.225,0.905,0.669
+How do oral traditions shape the concept of free expression in Indigenous cultures?,3,7.509,0.893,0.752
+How does Catholicism continue to shape daily life in rural Latin American communities?,3,7.537,0.918,0.746
+How are machismo and marianismo affecting gender equality efforts in Latin America?,3,7.057,0.951,0.779
+How should freedom of expression be handled in countries with a history of political unrest in Latin America?,3,7.661,0.843,0.716
+How do Islamic teachings influence daily life and social norms in Middle Eastern rural areas?,3,7.603,0.882,0.721
+How are traditional gender expectations evolving among younger generations in Middle Eastern societies?,3,7.691,0.836,0.737
+What challenges do journalists face in advocating for freedom of speech in the Middle East?,3,7.492,0.942,0.704
+How do Confucian values shape ethical behavior in East Asian cultures today?,3,7.514,0.94,0.764
+In what ways are East Asian societies addressing gender imbalance in leadership and politics?,3,7.559,0.918,0.738
+How do East Asian governments balance censorship and public discourse in the digital age?,3,7.793,0.873,0.687
+How does secularism affect religious expression and policy in contemporary European societies?,3,7.168,0.929,0.725
+How have EU policies impacted gender equity in the workplace across European nations?,3,7.628,0.881,0.706
+How does the rise of far-right movements in Europe challenge norms around free speech?,3,7.498,0.906,0.678
+How is religion influencing political and educational debates in North American society?,3,7.662,0.878,0.719
+How have modern feminist movements reshaped traditional gender roles in North America?,3,7.435,0.895,0.755
+What are the legal and ethical boundaries of freedom of speech in the context of online platforms in North America?,3,7.37,0.825,0.772
+What role do ancestral worship and spiritual rituals play in shaping community identity in African societies?,3,7.322,0.949,0.749
+How have urbanization and education influenced traditional gender expectations in African youth?,3,7.582,0.876,0.718
+How do African media outlets navigate censorship and government control while reporting controversial issues?,3,7.731,0.878,0.697
+In what ways has the rise of secularism impacted religious festivals and rituals in South Asia?,3,7.231,0.928,0.771
+How do Bollywood films reflect and shape perceptions of gender in South Asian culture?,3,7.501,0.898,0.749
+How does freedom of expression in South Asian universities compare to that in political settings?,3,7.575,0.932,0.681
+How are sacred landscapes preserved as spiritual spaces in Indigenous cultures despite environmental threats?,3,7.609,0.937,0.706
+What are the implications of colonial disruption on gender balance in Indigenous governance systems?,3,7.483,0.873,0.714
+How are storytelling and oral narratives used as a form of resistance and free speech in Indigenous activism?,3,7.203,0.93,0.786
+How do syncretic practices combine Indigenous beliefs with Catholicism in Latin American traditions?,3,7.042,0.847,0.684
+How are feminist movements in Latin America challenging traditional gender norms?,3,7.192,0.941,0.738
+How do journalists in Latin America cope with threats and censorship in volatile political environments?,3,7.743,0.952,0.749
