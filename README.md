@@ -122,9 +122,15 @@ notebooks/analysis.ipynb
 
 ---
 
+## Challenges and Troubleshooting
+
+- Managed variability in LLM outputs by using multi-sampling with different temperatures and seeds
+- Resolved inconsistencies in response formatting across GPT, LLaMA, and Gemma outputs
+- Handled gated model access and environment setup issues for LLaMA 2 via Hugging Face
+- Reduced evaluation noise by aggregating responses and comparing metrics across prompt sets
+- Observed that high semantic similarity (BERTScore) did not always correspond to culturally aligned responses, motivating cross-metric analysis
 ### Notes
 
-* Precomputed outputs are available in `/outputs` to skip API calls
 * API usage may incur cost (OpenAI) and rate limits (Hugging Face)
 * Expected runtime: ~X minutes depending on prompt size
 
