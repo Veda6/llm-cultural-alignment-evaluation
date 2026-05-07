@@ -128,28 +128,12 @@ notebooks/analysis.ipynb
 * API usage may incur cost (OpenAI) and rate limits (Hugging Face)
 * Expected runtime: ~X minutes depending on prompt size
 
-## Repository Structure
 
-├── data/
-│   ├── prompts.csv
-│   ├── cultural_region_prompts.csv
-│   ├── prompts_global.csv
-│   ├── african_prompts.csv
-│
-├── scripts/
-│   ├── run_sampling.py
-│   ├── evaluate_models.py
-│   ├── analyze_responses.py
-│   ├── plot_metrics.py
-│
-├── results/
-│   ├── outputs/
-│   ├── metrics/
-│   ├── plots/
-│
-├── references/
-│   ├── research papers
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+## References
+
+1. Zhang et al. (2019). *BERTScore: Evaluating Text Generation with BERT.*
+2. Anthropic Helpful-Harmless (HH) Dataset
+3. Hugging Face Transformers Documentation
+4. OpenAI API Documentation
+5. Wang et al. (2021). *RobOT: Robustness-Oriented Testing for Deep Learning Systems.*
+6. Stanford Human-Centered AI resources on cultural evaluation and alignment
